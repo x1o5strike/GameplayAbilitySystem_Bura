@@ -1,7 +1,7 @@
 // Copyright Dragon Future Tech
 
 
-#include "CharacterBase.h"
+#include "Character/CharacterBase.h"
 
 // Sets default values
 ACharacterBase::ACharacterBase()
